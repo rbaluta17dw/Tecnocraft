@@ -1,0 +1,444 @@
+[18:33:22] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:33:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:33:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:33:22] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:33:22] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:33:22] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[18:33:22] [Server thread/INFO]: Loading properties
+[18:33:22] [Server thread/INFO]: Default game type: SURVIVAL
+[18:33:22] [Server thread/INFO]: Generating keypair
+[18:33:22] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Controlador no válido
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_211]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[18:33:22] [Server thread/INFO]: Starting Minecraft server on 192.168.192.13:25565
+[18:33:22] [Server thread/INFO]: Using default channel type
+[18:33:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:33:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:33:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:33:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:33:24] [Server thread/INFO]: Preparing level "world"
+[18:33:24] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:33:25] [Server thread/INFO]: Loaded 6 recipes
+[18:33:25] [Server thread/INFO]: Loaded 811 advancements
+[18:33:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:33:27] [Server thread/INFO]: Preparing spawn area: 0%
+[18:33:27] [Server thread/INFO]: Preparing spawn area: 0%
+[18:33:27] [Server thread/INFO]: Preparing spawn area: 0%
+[18:33:27] [Server thread/INFO]: Preparing spawn area: 0%
+[18:33:28] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[18:33:28] [Server thread/INFO]: Preparing spawn area: 7%
+[18:33:28] [Server thread/INFO]: Time elapsed: 2627 ms
+[18:33:28] [Server thread/INFO]: Done (4.555s)! For help, type "help"
+[18:33:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a0b4fc0[id=<null>,name=160R,properties={},legacy=false] (/192.168.192.234:65482) lost connection: Disconnected
+[18:33:35] [Server thread/INFO]: 160R[/192.168.192.234:65503] logged in with entity id 66 at (156.60541568057465, 27.0, 424.0498953328819)
+[18:33:35] [Server thread/INFO]: 160R joined the game
+[18:33:40] [Server thread/INFO]: [160R: Set own game mode to Survival Mode]
+[18:34:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1098, l='world', x=157.52, y=59.00, z=440.12]
+[18:34:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1120, l='world', x=156.09, y=59.00, z=441.86]
+[18:35:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1467, l='world', x=158.52, y=59.00, z=437.01]
+[18:36:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1535, l='world', x=156.48, y=62.00, z=440.39]
+[18:37:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1684, l='world', x=155.20, y=59.00, z=437.35]
+[18:40:19] [Server thread/INFO]: [160R: Set own game mode to Creative Mode]
+[18:41:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2395, l='world', x=155.68, y=59.00, z=439.72]
+[18:41:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2458, l='world', x=156.21, y=59.00, z=439.35]
+[18:41:47] [Server thread/INFO]: Pornhub[/192.168.192.13:62311] logged in with entity id 2459 at (163.2691852842635, 63.0, 417.5037207853238)
+[18:41:47] [Server thread/INFO]: Pornhub joined the game
+[18:42:00] [Server thread/INFO]: [160R: Set own game mode to Survival Mode]
+[18:42:17] [Server thread/INFO]: [160R: Set own game mode to Creative Mode]
+[18:44:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3303, l='world', x=155.70, y=59.00, z=438.40]
+[18:44:13] [Server thread/INFO]: Rodolfo[/192.168.192.74:56631] logged in with entity id 3310 at (141.11353589981772, 66.8500000178814, 370.01407545450286)
+[18:44:13] [Server thread/INFO]: Rodolfo joined the game
+[18:44:34] [Server thread/WARN]: Horse moved wrongly!
+[18:44:34] [Server thread/WARN]: Horse moved wrongly!
+[18:44:35] [Server thread/WARN]: Horse moved wrongly!
+[18:44:35] [Server thread/WARN]: Horse moved wrongly!
+[18:44:35] [Server thread/WARN]: Horse moved wrongly!
+[18:44:35] [Server thread/WARN]: Horse moved wrongly!
+[18:45:25] [Server thread/WARN]: Horse moved wrongly!
+[18:45:25] [Server thread/WARN]: Horse moved wrongly!
+[18:46:24] [Server thread/WARN]: 160R moved too quickly! -0.2678530450137089,0.0,-10.20111453160473
+[18:46:38] [Server thread/WARN]: Rodolfo moved too quickly! -0.08594562399150618,-10.201788143051388,-2.491866739292959
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 6.16681237686106,3.0,-7.294837218407054
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 6.480803861200798,3.0,-7.689399011772252
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 6.7947949632820155,3.0,-8.083961177696835
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 7.108785860824298,3.0,-8.47852354297055
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 7.422776648921911,3.0,-8.873086014911962
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 7.7367673784578415,3.0,-9.26764854392917
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 8.05075807665861,3.0,-9.66221110348647
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 8.36474875809256,3.0,-10.056773679385174
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 8.678739430554913,3.0,-10.451336264027816
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 8.992730098216725,3.0,-10.845898853349183
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 9.30672076330984,3.0,-11.240461445174049
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 9.620711427028539,3.0,-11.635024038338486
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 9.934702090011797,3.0,-12.029586632219718
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 10.248692752601528,3.0,-12.424149226484474
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 10.562683414980711,3.0,-12.818711820954434
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 10.87667407724723,3.0,-13.213274415534215
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 11.188739804047202,3.0,-13.609352493669292
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 11.496849733932038,3.0,-14.008483555121245
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 11.801853936457235,3.0,-14.409989781468596
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 12.099236398860455,3.0,-14.817067357969961
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 12.38693786974568,3.0,-15.230917668090285
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 12.66689235644452,3.0,-15.65005172091287
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 12.935378514784077,3.0,-16.076494416864023
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 13.196135134825624,3.0,-16.50777464330332
+[18:47:08] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! 13.447400511708338,3.0,-16.94463822323661
+[18:48:05] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -9.948322583051208,1.0,-1.6240812692046802
+[18:48:05] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -10.444187919363742,1.0,-1.715663152524428
+[18:48:05] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -10.940053013149821,1.0,-1.8072465595777203
+[18:48:05] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -11.435917977164792,1.0,-1.8988307819503802
+[18:48:05] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -11.93178287174183,2.0,-1.9904154405842291
+[18:48:05] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -12.42764772916405,2.0,-2.08200033265274
+[18:48:11] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -9.662365998244894,-2.0,-2.171086370455498
+[18:48:11] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -10.099310399025711,-2.0,-2.348286353308879
+[18:48:11] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -10.559114927261248,-2.0768320014953616,-2.5054131273390112
+[18:48:11] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -10.828094080570324,-2.227453458663007,-2.5942889951759867
+[18:48:11] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -11.091163889473293,-2.4489423104376016,-2.6769594909220586
+[18:48:11] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -11.349155666906924,-2.738492209317357,-2.7523267164860385
+[18:48:11] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -11.60267615833223,-3.0,-2.8196470962008675
+[18:48:11] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -12.063133988853906,-2.0,-2.874019927652
+[18:48:11] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -12.543441152651155,-2.0,-2.887638812444891
+[18:48:11] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -13.033884194416189,-2.0,-2.873334415166312
+[18:48:11] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -13.529691941846906,-2.0,-2.8434622417830724
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -6.011611776323207,-1.0,7.931403594845733
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -5.938459149119154,-1.0,8.429410403859208
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -5.9628180977909295,-1.0,8.921556506009608
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -6.143252730188038,-1.0,9.34902077910749
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -6.471962207112696,-1.0768320014953616,9.610323235355509
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -6.670496810441335,-1.2274534586630068,9.744087777729135
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -6.867705498667192,-1.4489423104376016,9.85140568132698
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -7.061371933426898,-1.7384922093173572,9.931850144801388
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -7.25171892859224,-2.093407939109099,9.98814374138965
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -7.43910564744202,-2.5111010141305457,10.022899594268154
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -7.62385239179747,-2.989085452684037,10.038448086752737
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -7.806286210353278,-3.0,10.036914851506765
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -8.151267407453545,-3.0,9.889496723278398
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -8.544807796397933,-3.0,9.704308388861989
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -8.988138587407036,-3.0,9.577189589086629
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -9.450949314806039,-3.0,9.572953531755843
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -9.905418908629017,-3.0,9.683327426993287
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -10.348409087022674,-2.0,9.86500557460505
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -10.782309593451238,-2.0,10.089515245080634
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -11.206204717370703,-2.0,10.344562924782053
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -11.62438328240809,-2.0768320014953616,10.616465081729245
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -11.867278368556995,-2.227453458663007,10.775497627631637
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -12.10302828620587,-2.4489423104376016,10.930865979018904
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -12.332406142402782,-2.738492209317357,11.082966601643363
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -12.556311962314147,-3.093407939109099,11.231850518927672
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -12.775777175355273,-3.5111010141305457,11.377199771281312
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -12.99163684277675,-3.989085452684037,11.518820667399723
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -13.204677711540434,-4.524973717900664,11.656424310851264
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -13.415321803769118,-5.116472819326901,11.790230135631134
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -13.623828450622284,-5.7613805688883275,11.920649065621944
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -13.830428923634628,-6.0,12.048047562752856
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -14.221504031819173,-6.0,12.27203544100604
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -14.63929912523784,-6.0,12.498995243686238
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -15.071391550016259,-6.0,12.727545263873537
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -7.500996908609515,-1.0,6.824323040195111
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -7.741660687415141,-1.0,7.266169007908786
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -8.010593825062195,-1.0768320014953616,7.690517700406417
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -8.126432360103685,-1.2274534586630068,7.9359599539532155
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -8.140982876916055,-1.4489423104376016,8.173227090766034
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -8.168509544995672,-1.7384922093173572,8.40320365826534
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -8.207846777974453,-2.0,8.626487216621229
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -8.401511429934246,-2.0,8.998272319998136
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -8.677600549145858,-2.0,9.356005889153437
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -9.010479030523427,-2.0768320014953616,9.691229194077266
+[18:48:14] [Server thread/WARN]: Horse (vehicle of Rodolfo) moved too quickly! -9.208890983937273,-2.227453458663007,9.882335308522045
+[18:48:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[18:48:39] [Server thread/WARN]: 160R moved too quickly! -0.2985915323414474,0.0,-10.424513411988698
+[18:48:47] [Server thread/WARN]: 160R moved too quickly! -0.17965593740547092,0.0,-10.043596536675466
+[18:49:03] [Server thread/INFO]: [Rodolfo: Teleported Rodolfo to Pornhub]
+[18:49:20] [Server thread/WARN]: Rodolfo moved too quickly! -1.3459357743074918,-0.9375,9.959914202677169
+[18:49:36] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.2626524538787578,0.0,10.27667046653363
+[18:49:36] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.23820959241939477,0.0,11.158553416731365
+[18:49:38] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.2719661493239016,0.0,-71.03622722264856
+[18:49:38] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.2719661493239016,0.0,-71.03622722264856
+[18:49:38] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.3050929746220845,0.0,-69.43326152643937
+[18:49:38] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.32908906266220583,0.0,-67.82326258401508
+[18:49:38] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.3440470985761408,0.0,-66.20639065519288
+[18:49:38] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.35006170241513246,0.0,-64.58280217619841
+[18:49:38] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.34722938672612713,0.0,-62.952649802609926
+[18:49:39] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.33564477292256356,0.0,-61.31608331571107
+[18:49:39] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.31540062817560965,0.0,-59.67324967252597
+[18:49:39] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.2865916417591734,0.0,-58.02429220176242
+[18:49:39] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.2493106454850249,0.0,-56.36935152574415
+[18:49:39] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.20365238545559805,0.0,-54.70856473909549
+[18:49:39] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.1497097463806938,0.0,-53.04206633238658
+[18:49:39] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.08757378787399261,0.0,-51.36998825539035
+[18:49:39] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.017337512764470375,0.0,-49.69245905892757
+[18:49:40] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.41533834053220176,0.0,10.44760484374649
+[18:49:40] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.41533834053220176,0.0,12.195737433967338
+[18:49:40] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.41533834053220176,0.0,13.947615626894049
+[18:49:40] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.41533834053220176,0.0,15.703918684389123
+[18:49:40] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.41533834053220176,0.0,17.464982483140375
+[18:49:40] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.4148666523654754,0.0,19.230822211116788
+[18:49:40] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.41440439795309203,0.0,20.9613451782144
+[18:49:40] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.41395138862014846,0.0,22.657257718977235
+[18:49:40] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.4135074394652065,0.0,23.900105903744702
+[18:49:40] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.002265971247311427,0.0,15.19769071818962
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.05883754654291806,0.0,10.107005258506888
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.058474265361411426,0.0,10.906192306568073
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.057573703449975255,0.0,11.729391921353454
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.05611209526540506,0.0,12.576123367698756
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.05406615098237921,0.0,13.445915495331633
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.051416881466991526,0.0,14.338306606778247
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.04814567783327561,0.0,15.252844219879421
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.044234303663671426,0.0,16.189084876033007
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.03966488773428978,0.0,17.146593959723873
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.03441991665286537,0.0,18.124945525386806
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.0284822277602359,0.0,19.123722124008168
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.021838836254460148,0.0,20.142514711425974
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.014477017378567325,0.0,21.180922405727415
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.006380467313960025,0.0,22.238552238321745
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.0024629573104277824,0.0,23.31501916703803
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.012061322627062054,0.0,24.409945921322105
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.022426366944188203,0.0,25.522962671715163
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.03356959351313549,0.0,26.653706962988963
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.04549844120711555,0.0,27.801823674694788
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.05822403356219752,0.0,28.96696467330173
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.07175343750532193,0.0,30.148788869899477
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.08609357839216614,0.0,31.34696198617371
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.10125124248935435,0.0,32.56115641446843
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.1172330801054784,0.0,33.79105108809904
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.1303197479745677,0.0,35.03633145484059
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.1303197479745677,0.0,36.29668913802254
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.1303197479745677,0.0,37.57182191360084
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.1303197479745677,0.0,38.86143370258958
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.1303197479745677,0.0,40.165234340125835
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.1303197479745677,0.0,41.48293945346313
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.18900754593860825,0.0,33.48194893408322
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.18900754593860825,0.0,34.826632362976625
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.18900754593860825,0.0,36.18440077233015
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.18900754593860825,0.0,37.554991833210124
+[18:49:59] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.18900754593860825,0.0,38.93814845208067
+[18:50:01] [Server thread/WARN]: Rodolfo moved too quickly! -1.2668756632380962,10.575493772005828,0.006668225552459717
+[18:50:01] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.3842431925852736,0.0,10.059908434307431
+[18:50:01] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.3842431925852736,0.0,11.75583308322308
+[18:50:01] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.3842431925852736,0.0,13.457041227749926
+[18:50:01] [Server thread/INFO]: Chango[/192.168.192.117:52644] logged in with entity id 6858 at (-48.927260944239926, 62.07326523496838, 1296.2018458323362)
+[18:50:01] [Server thread/INFO]: Chango joined the game
+[18:50:01] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.0,0.0,-11.943738140574055
+[18:50:01] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.0,0.0,-11.943738140574055
+[18:50:01] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.0,0.0,-11.943738140574055
+[18:50:01] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.0,0.0,-10.212702170566956
+[18:50:03] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.0,0.0,10.789322096854448
+[18:50:03] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.0,0.0,10.789322096854448
+[18:50:03] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.0,0.0,10.789322096854448
+[18:50:14] [Server thread/WARN]: Fetching packet for removed entity atx['Cooked Chicken'/6849, l='world', x=142.67, y=63.00, z=430.70]
+[18:50:15] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.14660317252062782,0.0,-11.676529418153677
+[18:50:15] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! -0.16910152264838985,0.0,-13.370579000130192
+[18:50:26] [Server thread/INFO]: Rodolfo lost connection: Disconnected
+[18:50:26] [Server thread/INFO]: Rodolfo left the game
+[18:50:38] [Server thread/INFO]: Rodolfo[/192.168.192.74:57029] logged in with entity id 7367 at (74.16965105201285, 63.0, 483.8648489428129)
+[18:50:38] [Server thread/INFO]: Rodolfo joined the game
+[18:51:23] [Server thread/WARN]: 160R moved too quickly! 0.07906376243170143,0.0,-10.903285941425224
+[18:51:26] [Server thread/WARN]: 160R moved too quickly! 0.2120747829514471,0.0,-10.67543958644842
+[18:51:29] [Server thread/WARN]: 160R moved too quickly! -0.003156898443080536,-0.20000004768371582,-10.03110526953003
+[18:51:42] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.15663497537113358,0.0,10.196567131213897
+[18:51:42] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.1913707987590385,0.0,11.916283549020818
+[18:51:42] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.22817853090043627,0.0,13.641509610042704
+[18:51:42] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.2669249080478835,0.0,15.372141394909477
+[18:51:42] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.307475490719213,0.0,17.108077092438634
+[18:51:42] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.349009217848419,0.0,18.84925367765777
+[18:51:42] [Server thread/WARN]: Boat (vehicle of 160R) moved too quickly! 0.3907322578064054,0.0,20.595593657917334
+[18:51:52] [Server thread/WARN]: 160R moved too quickly! -0.0859213762010711,0.0,-10.609847429510978
+[18:51:57] [Server thread/WARN]: 160R moved too quickly! 0.7431284102471523,0.0,-10.325478624859784
+[18:52:01] [Server thread/WARN]: 160R moved too quickly! 0.025002755705600066,0.0,-10.638343767513902
+[18:52:06] [Server thread/WARN]: Rodolfo moved too quickly! -4.639529531335256,0.3693736602695026,-9.222950370300566
+[18:52:20] [Server thread/WARN]: Rodolfo moved too quickly! 4.089972266048411,1.2491870787446828,-9.113359523624297
+[18:52:53] [Server thread/INFO]: [Chango: Teleported Chango to Rodolfo]
+[18:53:05] [Server thread/WARN]: 160R moved too quickly! 7.147503105735382,7.0,-0.026514196763400832
+[18:53:07] [Server thread/WARN]: Rodolfo moved too quickly! 3.3253884024019555,-5.592604597635059,-7.732330593969152
+[18:53:15] [Server thread/INFO]: Chango lost connection: Disconnected
+[18:53:15] [Server thread/INFO]: Chango left the game
+[18:53:21] [Server thread/WARN]: Rodolfo moved too quickly! 0.2269566857457761,4.176759275064242,-9.201659707678346
+[18:53:32] [Server thread/WARN]: Rodolfo moved too quickly! 9.910291532868811,-0.7491326388584127,-1.7244253722693657
+[18:54:11] [Server thread/INFO]: Chango[/192.168.192.117:52669] logged in with entity id 8791 at (45.39172382697778, 71.0, 390.6797226569062)
+[18:54:11] [Server thread/INFO]: Chango joined the game
+[18:56:09] [Server thread/INFO]: [160R: Set own game mode to Survival Mode]
+[18:57:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10515, l='world', x=156.68, y=59.00, z=436.47]
+[18:57:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10515, l='world', x=156.68, y=59.00, z=436.47]
+[18:59:06] [Server thread/INFO]: Octavio[/192.168.192.215:55943] logged in with entity id 11452 at (62.67474185657779, 65.0, 318.45207869220195)
+[18:59:06] [Server thread/INFO]: Octavio joined the game
+[18:59:50] [Server thread/INFO]: [Pornhub: Set the time to 1000]
+[19:00:16] [Server thread/INFO]: [160R: Teleported Octavio to 160R]
+[19:00:35] [Server thread/INFO]: Octavio blew up
+[19:00:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12082, l='world', x=158.46, y=59.00, z=435.20]
+[19:00:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12082, l='world', x=158.46, y=59.00, z=435.20]
+[19:00:48] [Server thread/INFO]: [160R: Teleported Octavio to 160R]
+[19:01:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12737, l='world', x=158.27, y=59.00, z=435.66]
+[19:01:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12737, l='world', x=158.27, y=59.00, z=435.66]
+[19:01:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12737, l='world', x=158.27, y=59.00, z=435.66]
+[19:02:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/13030, l='world', x=158.55, y=59.00, z=437.40]
+[19:02:50] [Server thread/WARN]: Boat moved wrongly!
+[19:02:50] [Server thread/WARN]: 160R moved wrongly!
+[19:02:50] [Server thread/WARN]: Boat moved wrongly!
+[19:03:33] [Server thread/WARN]: Octavio moved too quickly! 8.077127483977165,4.5,4.036153636278868
+[19:03:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
+[19:03:45] [Server thread/INFO]: 160R lost connection: Disconnected
+[19:03:45] [Server thread/INFO]: 160R left the game
+[19:03:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3095ms or 61 ticks behind
+[19:04:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14341, l='world', x=156.16, y=62.00, z=440.85]
+[19:04:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14388, l='world', x=156.98, y=59.00, z=437.26]
+[19:05:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19:05:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19:07:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/16559, l='world', x=156.67, y=59.00, z=435.64]
+[19:08:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:08:47] [Server thread/WARN]: Rodolfo moved too quickly! 9.412968743443685,0.6709083839322858,3.6675676970529594
+[19:08:47] [Server thread/WARN]: Pornhub moved too quickly! 7.972969442077627,0.0,-6.336301102784045
+[19:08:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4799ms or 95 ticks behind
+[19:08:59] [Server thread/INFO]: [Rodolfo: Set the time to 1000]
+[19:12:19] [Server thread/INFO]: [Pornhub: Teleported Pornhub to Chango]
+[19:12:19] [Server thread/WARN]: Pornhub moved too quickly! -125.12995190195227,1.0,57.01522951631768
+[19:12:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -10.295572155662903,0.0,0.8941836815703255
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -10.67238699671222,0.0,1.0038616099544697
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -11.046647865233865,0.0,1.1217043607462074
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -11.41867963148026,0.0,1.2467673480900885
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -11.788768777811029,0.0,1.378210335384324
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -12.157487869493849,0.0,1.5146713737796063
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -12.52560372450521,0.0,1.654355883592416
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -12.89396939340098,0.0,1.795120261361376
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -13.263196286128462,0.0,1.9351826420946736
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -13.633706126758582,0.0,2.0730848171342586
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -14.005774743687375,0.0,2.207650747141429
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -14.379566455399527,0.0,2.337950160695641
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -14.755296874304989,0.0,2.4625751540148713
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -15.133140136165629,0.0,2.5797406251514303
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -15.5130962476507,0.0,2.688055632465307
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -15.89504570372447,0.0,2.7864786132929567
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -16.278792250695624,0.0,2.87426167655849
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -16.664129513803616,0.0,2.951602542483556
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -17.05089499040448,0.0,3.0194649702522156
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -17.43896823693369,0.0,3.0794214939944595
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -17.82823028553748,0.0,3.1328263138317425
+[19:13:51] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -10.30149297317731,0.0,0.8605673288878961
+[19:13:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2296ms or 45 ticks behind
+[19:14:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/21085, l='world', x=50.12, y=63.00, z=310.39]
+[19:18:43] [Server thread/INFO]: [Octavio: Set the time to 1000]
+[19:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
+[19:19:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[19:20:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3209ms or 64 ticks behind
+[19:20:17] [Server thread/INFO]: [Octavio: Set own game mode to Spectator Mode]
+[19:20:17] [Server thread/INFO]: Rodolfo fell from a high place
+[19:20:33] [Server thread/INFO]: <Rodolfo> me e caido de lo mas alto d emi casa
+[19:21:25] [Server thread/INFO]: [Octavio: Set own game mode to Survival Mode]
+[19:22:00] [Server thread/INFO]: [Octavio: Set own game mode to Spectator Mode]
+[19:22:24] [Server thread/INFO]: [Octavio: Set own game mode to Survival Mode]
+[19:22:51] [Server thread/INFO]: <Rodolfo> buen trabajo
+[19:23:00] [Server thread/INFO]: <Rodolfo> creo que planean algo
+[19:23:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:23:56] [Server thread/INFO]: [Octavio: Set own game mode to Spectator Mode]
+[19:24:03] [Server thread/WARN]: Rodolfo moved too quickly! -9.486939670363597,-1.252203340253729,-3.279009097256221
+[19:24:03] [Server thread/WARN]: Octavio moved too quickly! 8.99175471154578,1.0907078833408335,-5.628209363890903
+[19:24:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[19:24:18] [Server thread/INFO]: [Octavio: Set own game mode to Survival Mode]
+[19:24:20] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/26639, l='world', x=159.97, y=59.00, z=436.02]
+[19:24:20] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/26639, l='world', x=159.97, y=59.00, z=436.02]
+[19:24:51] [Server thread/INFO]: <Rodolfo> no se
+[19:24:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/26789, l='world', x=160.98, y=59.00, z=435.20]
+[19:24:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/26789, l='world', x=160.98, y=59.00, z=435.20]
+[19:24:58] [Server thread/INFO]: <Rodolfo> pero se que es algo raro
+[19:25:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19:25:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2259ms or 45 ticks behind
+[19:25:37] [Server thread/INFO]: Octavio has made the advancement [Diamonds!]
+[19:25:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:27:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[19:27:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4340ms or 86 ticks behind
+[19:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:28:37] [Server thread/INFO]: <Rodolfo> ?
+[19:28:45] [Server thread/INFO]: <Rodolfo> si
+[19:28:54] [Server thread/INFO]: <Rodolfo> puedes hacer tp
+[19:29:11] [Server thread/INFO]: [Rodolfo: Set the time to 1000]
+[19:29:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:30:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[19:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4249ms or 84 ticks behind
+[19:30:26] [Server thread/INFO]: Pornhub lost connection: Disconnected
+[19:30:26] [Server thread/INFO]: Pornhub left the game
+[19:31:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30573, l='world', x=159.20, y=59.00, z=438.01]
+[19:31:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30666, l='world', x=158.29, y=59.00, z=435.75]
+[19:33:58] [Server thread/INFO]: [Octavio: Teleported Octavio to Chango]
+[19:35:28] [Server thread/INFO]: [Rodolfo: Teleported Rodolfo to Chango]
+[19:35:28] [Server thread/WARN]: Rodolfo moved too quickly! -375.58810955897576,-14.833890739061786,-128.90976576414806
+[19:36:43] [Server thread/INFO]: [Octavio: Teleported Octavio to Chango]
+[19:37:05] [Server thread/INFO]: <Rodolfo> no estoy
+[19:37:40] [Server thread/INFO]: <Rodolfo> el vendedor
+[19:37:56] [Server thread/INFO]: <Rodolfo> vende hielo azul por 6 esmeraldas xd
+[19:38:03] [Server thread/INFO]: [Chango: Set own game mode to Spectator Mode]
+[19:38:11] [Server thread/INFO]: [Octavio: Set own game mode to Creative Mode]
+[19:38:17] [Server thread/INFO]: [Rodolfo: Set the time to 1000]
+[19:39:19] [Server thread/INFO]: <Rodolfo> ya estoy
+[19:39:23] [Server thread/INFO]: [Chango: Teleported Chango to Rodolfo]
+[19:39:29] [Server thread/WARN]: Chango moved too quickly! 1.9749357905451461,0.0,9.994995505362112
+[19:39:57] [Server thread/INFO]: <Rodolfo> sabes por donde ir?
+[19:39:57] [Server thread/INFO]: [Chango: Set own game mode to Creative Mode]
+[19:40:18] [Server thread/INFO]: <Rodolfo> si
+[19:41:37] [Server thread/INFO]: <Rodolfo> :3
+[19:42:06] [Server thread/INFO]: <Rodolfo> adonde vas
+[19:42:13] [Server thread/INFO]: <Rodolfo> javi?
+[19:42:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36529, l='world', x=156.17, y=59.00, z=436.70]
+[19:43:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36876, l='world', x=50.12, y=63.00, z=310.89]
+[19:44:29] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -8.833141807804168,0.0,-5.435044729078754
+[19:44:29] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -9.17793462870776,0.0,-5.637390327364528
+[19:44:29] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -9.52286486060541,0.0,-5.839543413489878
+[19:44:29] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -9.867920684644218,0.0,-6.041519919441953
+[19:44:29] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -10.21309146385687,0.0,-6.243334184008404
+[19:44:29] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -10.558365702723279,0.0,-6.445002431331886
+[19:44:29] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -10.903734973800056,0.0,-6.646535943906315
+[19:44:29] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -11.249191696113712,0.0,-6.847944877838927
+[19:44:29] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -11.594727124538451,0.0,-7.049241690996837
+[19:44:29] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -11.940335306985844,0.0,-7.250434274363897
+[19:44:29] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -12.286008968051817,0.0,-7.4515330509216255
+[19:44:29] [Server thread/WARN]: Boat (vehicle of Rodolfo) moved too quickly! -12.631741559873035,0.0,-7.6525474013532175
+[19:48:41] [Server thread/INFO]: <Rodolfo> ni
+[19:48:42] [Server thread/INFO]: <Rodolfo> no
+[19:49:15] [Server thread/INFO]: <Rodolfo> si
+[19:49:26] [Server thread/INFO]: <Rodolfo> si son unos pesaos con que pallin tenga el server
+[19:50:32] [Server thread/INFO]: Octavio has reached the goal [Hired Help]
+[19:52:37] [Server thread/INFO]: [Rodolfo: Set the time to 1000]
+[19:53:16] [Server thread/INFO]: <Rodolfo> un esqueleto se habia puesto en mi barca
+[19:53:30] [Server thread/INFO]: <Rodolfo> ostiass
+[19:54:08] [Server thread/INFO]: <Rodolfo> noçw
+[19:54:10] [Server thread/WARN]: Boat moved wrongly!
+[19:54:10] [Server thread/WARN]: Boat moved wrongly!
+[19:54:10] [Server thread/WARN]: Boat moved wrongly!
+[19:54:10] [Server thread/WARN]: Boat moved wrongly!
+[19:54:32] [Server thread/INFO]: <Rodolfo> los sumergidos durante la noche pueden salir del agua
+[19:55:28] [Server thread/INFO]: <Rodolfo> ugh
+[19:56:03] [Server thread/INFO]: <Rodolfo> alguno de vosotros tiene arena de sobra?
+[19:56:52] [Server thread/INFO]: <Rodolfo> hola
+[19:56:59] [Server thread/INFO]: <Rodolfo> podeis leer el mensaje
+[19:57:35] [Server thread/INFO]: [Octavio: Set own game mode to Survival Mode]
+[19:58:00] [Server thread/INFO]: <Rodolfo> a veces cuando pulso la w la tecla se sale
+[19:58:31] [Server thread/INFO]: <Rodolfo> porque resbala
+[19:58:45] [Server thread/INFO]: Rodolfo lost connection: Disconnected
+[19:58:45] [Server thread/INFO]: Rodolfo left the game
+[19:58:45] [Server thread/INFO]: Octavio lost connection: Disconnected
+[19:58:45] [Server thread/INFO]: Octavio left the game
+[19:58:47] [Server thread/INFO]: Chango lost connection: Disconnected
+[19:58:47] [Server thread/INFO]: Chango left the game
+[19:58:53] [Server thread/INFO]: Stopping server
+[19:58:53] [Server thread/INFO]: Saving players
+[19:58:53] [Server thread/INFO]: Saving worlds
+[19:58:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:58:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:58:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
