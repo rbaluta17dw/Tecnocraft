@@ -1,14 +1,12 @@
-[11:44:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:44:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:44:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:44:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:44:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:44:13] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[11:44:13] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[11:44:13] [Server thread/INFO]: Loading properties
-[11:44:13] [Server thread/INFO]: Default game type: SURVIVAL
-[11:44:13] [Server thread/INFO]: Generating keypair
-[11:44:13] [Server console handler/ERROR]: Exception handling console input
+[12:16:25] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:16:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:16:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:16:25] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:16:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:16:25] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[12:16:25] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[12:16:25] [Server thread/INFO]: Loading properties
+[12:16:25] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Controlador no válido
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_221]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_221]
@@ -22,63 +20,99 @@ java.io.IOException: Controlador no válido
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
 	at uk$2.run(SourceFile:109) [server.jar:?]
-[11:44:13] [Server thread/INFO]: Starting Minecraft server on 192.168.192.134:25565
-[11:44:13] [Server thread/INFO]: Using default channel type
-[11:44:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:44:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:44:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:44:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:44:14] [Server thread/INFO]: Preparing level "world"
-[11:44:14] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:44:15] [Server thread/INFO]: Loaded 6 recipes
-[11:44:15] [Server thread/INFO]: Loaded 811 advancements
-[11:44:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:44:18] [Server thread/INFO]: Preparing spawn area: 0%
-[11:44:18] [Server thread/INFO]: Preparing spawn area: 0%
-[11:44:18] [Server thread/INFO]: Preparing spawn area: 0%
-[11:44:18] [Server thread/INFO]: Preparing spawn area: 0%
-[11:44:18] [Server thread/INFO]: Preparing spawn area: 0%
-[11:44:22] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[11:44:22] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[11:44:22] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[11:44:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:44:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[11:44:22] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[11:44:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[11:44:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[11:44:23] [Server thread/INFO]: Time elapsed: 6376 ms
-[11:44:23] [Server thread/INFO]: Done (8.325s)! For help, type "help"
-[11:45:43] [Server thread/INFO]: DIegO[/192.168.192.134:59604] logged in with entity id 64 at (130.30391737535152, 37.0, 357.69999998807907)
-[11:45:43] [Server thread/INFO]: DIegO joined the game
-[11:48:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1359, l='world', x=156.59, y=59.00, z=438.45]
-[11:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3715ms or 74 ticks behind
-[11:51:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1877, l='world', x=157.04, y=59.00, z=435.99]
-[11:51:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
-[11:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4776ms or 95 ticks behind
-[11:52:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6224ms or 124 ticks behind
-[11:52:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11745ms or 234 ticks behind
-[11:53:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4652ms or 93 ticks behind
-[11:53:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4373ms or 87 ticks behind
-[11:53:48] [Server thread/INFO]: DIegO was slain by Zombie
-[11:53:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6644ms or 132 ticks behind
-[11:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9766ms or 195 ticks behind
-[11:54:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7671ms or 153 ticks behind
-[11:55:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4127ms or 82 ticks behind
-[11:55:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3585ms or 71 ticks behind
-[11:55:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7127ms or 142 ticks behind
-[11:56:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6394ms or 127 ticks behind
-[11:56:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5134ms or 102 ticks behind
-[11:56:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4355ms or 87 ticks behind
-[11:57:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3860ms or 77 ticks behind
-[11:57:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2589ms or 51 ticks behind
-[11:57:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
-[11:57:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
-[11:58:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6071ms or 121 ticks behind
-[11:58:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5685ms or 113 ticks behind
-[11:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4748ms or 94 ticks behind
-[11:59:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3193ms or 63 ticks behind
-[11:59:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3030ms or 60 ticks behind
-[11:59:44] [Server thread/INFO]: DIegO lost connection: Disconnected
-[11:59:44] [Server thread/INFO]: DIegO left the game
-[12:00:21] [Server thread/INFO]: DIegO[/192.168.192.134:60627] logged in with entity id 3765 at (134.48694756828363, 16.0, 326.4116765380856)
-[12:00:21] [Server thread/INFO]: DIegO joined the game
+[12:16:25] [Server thread/INFO]: Default game type: SURVIVAL
+[12:16:25] [Server thread/INFO]: Generating keypair
+[12:16:26] [Server thread/INFO]: Starting Minecraft server on 192.168.192.134:25565
+[12:16:26] [Server thread/INFO]: Using default channel type
+[12:16:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:16:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:16:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:16:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:16:27] [Server thread/INFO]: Preparing level "world"
+[12:16:27] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:16:28] [Server thread/INFO]: Loaded 6 recipes
+[12:16:28] [Server thread/INFO]: Loaded 811 advancements
+[12:16:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:16:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:16:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:16:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:16:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:16:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:16:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:16:36] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:16:36] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:16:36] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[12:16:36] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:16:36] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[12:16:36] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[12:16:36] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:16:36] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:16:36] [Server thread/INFO]: Preparing spawn area: 58%
+[12:16:36] [Server thread/INFO]: Time elapsed: 7080 ms
+[12:16:36] [Server thread/INFO]: Done (9.258s)! For help, type "help"
+[12:17:45] [Server thread/INFO]: DIegO[/192.168.192.134:50712] logged in with entity id 67 at (135.3272847353647, 16.0, 328.22573240662194)
+[12:17:45] [Server thread/INFO]: DIegO joined the game
+[12:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+[12:30:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[12:30:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7176ms or 143 ticks behind
+[12:31:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[12:31:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3979ms or 79 ticks behind
+[12:32:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9179ms or 183 ticks behind
+[12:32:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8109ms or 162 ticks behind
+[12:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4618ms or 92 ticks behind
+[12:33:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3751ms or 75 ticks behind
+[12:33:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3723ms or 74 ticks behind
+[12:33:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3309ms or 66 ticks behind
+[12:33:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2756ms or 55 ticks behind
+[12:34:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2922ms or 58 ticks behind
+[12:34:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[12:34:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7610ms or 152 ticks behind
+[12:35:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6089ms or 121 ticks behind
+[12:35:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5212ms or 104 ticks behind
+[12:35:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4765ms or 95 ticks behind
+[12:36:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3792ms or 75 ticks behind
+[12:36:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
+[12:36:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[12:37:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3865ms or 77 ticks behind
+[12:37:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6248ms or 124 ticks behind
+[12:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5973ms or 119 ticks behind
+[12:38:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4192ms or 83 ticks behind
+[12:38:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2843ms or 56 ticks behind
+[12:38:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5273ms or 105 ticks behind
+[12:39:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5920ms or 118 ticks behind
+[12:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5000ms or 100 ticks behind
+[12:39:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4116ms or 82 ticks behind
+[12:40:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3220ms or 64 ticks behind
+[12:40:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[12:40:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
+[12:41:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7188ms or 143 ticks behind
+[12:41:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3812ms or 76 ticks behind
+[12:41:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2805ms or 56 ticks behind
+[12:41:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
+[12:42:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3048ms or 60 ticks behind
+[12:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[12:42:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5915ms or 118 ticks behind
+[12:43:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5863ms or 117 ticks behind
+[12:43:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5187ms or 103 ticks behind
+[12:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4209ms or 84 ticks behind
+[12:44:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3017ms or 60 ticks behind
+[12:44:18] [Server thread/INFO]: DIegO lost connection: Disconnected
+[12:44:18] [Server thread/INFO]: DIegO left the game
+[12:44:33] [Server thread/INFO]: Unknown command
+[12:44:33] [Server thread/INFO]: quit<--[HERE]
+[12:44:35] [Server thread/INFO]: Unknown command
+[12:44:35] [Server thread/INFO]: exit<--[HERE]
+[12:44:40] [Server thread/INFO]: Unknown command
+[12:44:40] [Server thread/INFO]: \qº<--[HERE]
+[12:44:42] [Server thread/INFO]: Stopping server
+[12:44:42] [Server thread/INFO]: Saving players
+[12:44:42] [Server thread/INFO]: Saving worlds
+[12:44:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[12:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:44:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[12:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:44:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[12:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:44:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
